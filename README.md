@@ -37,7 +37,7 @@ ok better let this shit out, u never read anything here.. NEVER
 - [x] put shit into this readme.md thing lol
 - [ ] do other important stuff
 
-- this argument is a good point (***pun intended***)
+- this argument has a good point (***pun intended***)
   - oh hey, sub arguments
     1. sub numerings
     1337. yes, it always :b: like that
