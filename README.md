@@ -35,7 +35,7 @@ me | your existence*
 ok better let this shit out, u never read anything here.. NEVER
 
 - [x] put shit into this readme.md thing lol
-- [ ] do other important stuff
+- [ ] do other important life things
 
 - this argument has a good point (***pun intended***)
   - oh hey, sub arguments
